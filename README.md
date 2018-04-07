@@ -1,2 +1,2 @@
 # Map-Reduce-Basics
-Basic Map Reduce functions in Java
+Map Reduce functions in Java
